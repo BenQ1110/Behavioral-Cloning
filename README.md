@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is part of my Self-Driving Car course. It uses neural network framework, Keras, to train a vehicle to drive around the track. It includes:
+This project is part of my Self-Driving Car course. It uses neural network framework, Keras, to train a vehicle to drive around the track. It uses architecture designed by Self-Driving Cars team at Nvidia (more information available here: https://devblogs.nvidia.com/deep-learning-self-driving-cars/). It includes:
 
 a. Model.py containing the script to create and train the model 
 
