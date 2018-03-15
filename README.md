@@ -5,8 +5,11 @@
 This project is part of my Self-Driving Car course. It uses neural network framework, Keras, to train a vehicle to drive around the track. It includes:
 
 a. Model.py containing the script to create and train the model 
+
 b. Drive.py for driving the car in autonomous mode 
+
 c. Model.h5 containing a trained convolution neural network 
+
 d. Video.mp4 with a recording of vehicle autonomously driving around the track. 
 
 Model is trained and tested using simulator provided by Udacity. 
